@@ -11,5 +11,5 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/username/htmlportfolio.git
+   git clone https://github.com/Kavyapriya2205/Portfolio.git
 
