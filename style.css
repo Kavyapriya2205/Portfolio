@@ -338,11 +338,11 @@ body {
 }
 
 .progress-line.html span { width: 90%; }
-.progress-line.css span { width: 60%; }
+.progress-line.css span { width: 95%; }
 .progress-line.javascript span { width: 85%; }
 .progress-line.java span { width: 90%; }
-.progress-line.react span { width: 75%; }
-.progress-line.node span { width: 60%; }
+.progress-line.react span { width: 85%; }
+.progress-line.node span { width: 80%; }
 
 .progress-line span::after {
     content: attr(data-percent);
